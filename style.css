@@ -1,0 +1,24 @@
+div#lettre_motivation {
+    border: 1px solid #E6E6E6;
+    color: black;
+    padding : 1rem;
+    }
+
+
+#aidePFM {
+padding: 10px;
+}
+
+#aidePFM span.question {
+padding-left: 10px;
+}
+
+#aidePFM ul {
+list-style: square;
+}
+
+#aidePFM li {
+list-style: disc;
+list-style-position: inside; 
+margin-bottom: 5px;
+}
